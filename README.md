@@ -1,1 +1,3 @@
 # CS-350
+
+There have been two projects that I thought I actually learned something from in this course. The C programming language seemed straigt forward at first but there was definitely some room for educational improvement. In this course, we used a CC3220S LaunchXL microcontroller. In my first project, I use C to change the brightness of the on board LEDs. In the second project, I used these same processes to speak in Morse code. These were simple after they were completed, but I did struggle at first. It is always through the struggle that I actually learn the most. There were many things that I could have and still can improve on. I am not sure how much more that this coding language will be in my future but I hope that there will be more direction with it. 
